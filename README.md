@@ -5,3 +5,7 @@ Chat-bot for vk.com that detects objects in the images by using google vision ap
 ```
 pip install vk_api
 ```
+# fefefef
+```
+pip install vk_api
+```
